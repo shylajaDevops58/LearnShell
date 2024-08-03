@@ -13,3 +13,9 @@ List of actions:
 2) git pull
 3) git commit -m "msg"
 4) git push
+
+
+
+Note:
+If the repo is public, anyone can download
+If the repo is private/public, only the owner or the team who has access to it can download
