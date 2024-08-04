@@ -9,4 +9,4 @@ pwd
 ls -ltr
 
 systemctl restart nginx
-echo ""**Frontend Installation is completed**"
+echo "**Frontend Installation is completed**"
