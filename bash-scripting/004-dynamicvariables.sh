@@ -2,7 +2,8 @@
 
 # DATE="07AUG2024"                # This is called hardCoding 
  
-DATE=$(date +%F)                  # This is how we can dynamically fetch the values
+DATE=$(date +%F)   
+echo "today date is $DATE"               # This is how we can dynamically fetch the values
 Exec=$1 # arg1 should be passed while executing
 Dept=$2 # arg2 should be passed while executing
 echo "script is executed by $Exec from $Dept department"
