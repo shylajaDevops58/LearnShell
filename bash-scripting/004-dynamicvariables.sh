@@ -5,7 +5,7 @@
 DATE=$(date +%F)                  # This is how we can dynamically fetch the values
 Exec=$1 # arg1 should be passed while executing
 Dept=$2 # arg2 should be passed while executing
-echo "script is executed by $Exec from department $Dept"
+echo "script is executed by $Exec from $Dept department"
 echo $0 # prints the script name
 
 #output:
