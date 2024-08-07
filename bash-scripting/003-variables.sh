@@ -4,4 +4,4 @@ name=shylu
 
 echo a 
 echo b
-echo c
+echo name
