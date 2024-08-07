@@ -6,3 +6,4 @@ DATE=$(date +%F)                  # This is how we can dynamically fetch the val
 Exec=$1
 Dept=$2
 echo "script is executed by $Exec from department $Dept"
+echo $0
